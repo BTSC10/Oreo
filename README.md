@@ -6,6 +6,6 @@ Ily's new edit
 
 Name Ideas:
 ***********
-Broos
-You spin my head round
+Broos\n
+You spin my head round\n
 Oreo
