@@ -18,4 +18,4 @@ Spinn
 
 Oooga Booga
 
-Brrrrrr
+(Atak go) Brrr
