@@ -19,3 +19,5 @@ Spinn
 Oooga Booga
 
 (Atak go) Brrr
+
+Toothless
